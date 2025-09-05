@@ -6,7 +6,7 @@ A clean and intuitive task management application built with Vanilla JavaScript 
 
 ## Screenshot
 ![TaskMaster App Screenshot](ss1.png)
-![TaskMaster ss while hover](Screenshot 2025-09-05 221913.png)
+![TaskMaster ss while hover](ss2.png)
 
 
 ## Built With
